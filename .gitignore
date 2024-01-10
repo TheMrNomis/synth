@@ -1,3 +1,4 @@
 **/*-backups/*.zip
 *.bak
 ~*.lck
+*.zip
