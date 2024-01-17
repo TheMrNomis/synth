@@ -1,4 +1,4 @@
-3486367344770132
+3486367346461640
 Connector_DIN
 DIN41612_B2_2x8_Female_Vertical_THT
 DIN41612 connector, type B/2, Vertical, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
@@ -14326,5 +14326,5 @@ RaspberryPi_Pico_Original_SMD_MountingHoles_Castellated_HandSolder_1
 Raspberry Pi Pico (original only) surface-mount footprint with debug pads and castellated test points for hand soldering; requires completion of partial edge (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
 Raspberry Pi Pico module castellated usb pcb swd handsolder
 0
-92
-49
+83
+43
